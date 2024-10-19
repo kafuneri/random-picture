@@ -1,3 +1,6 @@
+# 简易修改版
+原作者仓库：https://github.com/YieldRay/Random-Picture
+修改：实现了自适应设备壁纸，添加了moburl.csv,当电脑使用api时返回url.csv中的图片地址，当手机使用api时返回moburl.csv的图片地址
 # Random-Picture
 
 通过随机发送 `url.csv` 文件中给出的图床链接来实现一个随机图片 API  
